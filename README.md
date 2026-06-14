@@ -1,6 +1,8 @@
 # tiny11builder
 *Scripts to build a trimmed-down Windows 11 image - now in **PowerShell**!*
 
+> **Note:** This project is a heavily modified version of the original [tiny11builder by NTDEV](https://github.com/ntdevlabs/tiny11builder). It was re-uploaded here to include major additions like a GUI and custom update injection.
+
 ## 🌟 New Improvements & GUI Interface
 This enhanced version includes significant additions over the original tiny11builder:
 
