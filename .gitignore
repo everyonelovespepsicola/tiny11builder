@@ -1,0 +1,18 @@
+# Logs
+*.log
+
+# Build Output
+output/
+
+# Windows image, update, and setup files
+*.iso
+*.wim
+*.esd
+*.swm
+*.msu
+*.cab
+*.exe
+
+# PowerShell / Temp files
+*.temp
+*.tmp
