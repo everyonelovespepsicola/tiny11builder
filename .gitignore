@@ -16,3 +16,7 @@ output/
 # PowerShell / Temp files
 *.temp
 *.tmp
+
+# Sandbox Environment
+Tiny11Sandbox.wsb
+SandboxSetup.cmd
